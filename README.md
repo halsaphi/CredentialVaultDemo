@@ -46,7 +46,7 @@ The demo showcases:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/verifiable-credentials-demo.git
+   git clone https://github.com/halsaphi/CredentialVaultDemo
    cd verifiable-credentials-demo
    ```
 
