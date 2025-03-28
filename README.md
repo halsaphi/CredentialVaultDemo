@@ -92,7 +92,7 @@ This application is built using:
 
 - **Frontend**: React, TypeScript, Tailwind CSS, shadcn/ui
 - **Backend**: Node.js, Express
-- **Database**: PostgreSQL with Drizzle ORM
+- **Database**: Local files, data stored in JSON so it's easy to use
 - **State Management**: TanStack Query
 - **Routing**: wouter
 
